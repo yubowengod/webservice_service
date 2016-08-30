@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\service" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WebApplication1.pdb" publishTime="08/27/2016 10:15:50" />
+    <file relUrl="Service1.asmx" publishTime="08/26/2016 14:08:35" />
+    <file relUrl="Web.config" publishTime="08/27/2016 10:20:03" />
+    <file relUrl="bin/WebApplication1.dll" publishTime="08/27/2016 10:15:50" />
+  </publishProfile>
+</publishData>
